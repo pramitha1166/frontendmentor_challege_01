@@ -98,6 +98,10 @@ main {
     margin: 0;
 }
 
+.page-container .card-container .card .card-top .price h3 span {
+    color: hsl(227, 35%, 25%);
+}
+
 .page-container .card-container .card .card-top .price {
     display: flex;
     justify-content: space-between;
